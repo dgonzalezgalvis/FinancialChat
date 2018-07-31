@@ -1,0 +1,16 @@
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\obj\Debug\FinancialChart.Bot.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChart.Bot.exe.config
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChart.Bot.exe
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChart.Bot.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\RabbitMQ.Client.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\RabbitMQ.Client.xml
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\obj\Debug\FinancialChart.Bot.csproj.CopyComplete
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\obj\Debug\FinancialChart.Bot.exe
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\obj\Debug\FinancialChart.Bot.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Services.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Services.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\obj\Debug\FinancialChart.Bot.csprojAssemblyReference.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Store.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Store.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChart.Bot\bin\Debug\FinancialChat.Common.pdb

@@ -1,0 +1,12 @@
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\bin\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\bin\Debug\FinancialChat.Common.pdb
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\obj\Debug\FinancialChat.Common.csprojAssemblyReference.cache
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\obj\Debug\FinancialChat.Common.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\obj\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\webapp\webapp1\FinancialChat.Common\obj\Debug\FinancialChat.Common.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\bin\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\bin\Debug\FinancialChat.Common.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Debug\FinancialChat.Common.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Debug\FinancialChat.Common.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Debug\FinancialChat.Common.csprojAssemblyReference.cache

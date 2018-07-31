@@ -1,0 +1,13 @@
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Services.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Services.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Store.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\RabbitMQ.Client.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Store.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\FinancialChat.Common.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Release\RabbitMQ.Client.xml
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Release\FinancialChat.Services.csprojAssemblyReference.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Release\FinancialChat.Services.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Release\FinancialChat.Services.csproj.CopyComplete
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Release\FinancialChat.Services.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Release\FinancialChat.Services.pdb

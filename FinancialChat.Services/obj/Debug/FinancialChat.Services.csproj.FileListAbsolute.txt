@@ -1,0 +1,13 @@
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Services.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Services.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\RabbitMQ.Client.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\RabbitMQ.Client.xml
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Debug\FinancialChat.Services.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Debug\FinancialChat.Services.csproj.CopyComplete
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Debug\FinancialChat.Services.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Debug\FinancialChat.Services.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\obj\Debug\FinancialChat.Services.csprojAssemblyReference.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Store.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Store.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Services\bin\Debug\FinancialChat.Common.pdb

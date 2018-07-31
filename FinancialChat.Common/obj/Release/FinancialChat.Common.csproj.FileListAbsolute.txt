@@ -1,0 +1,6 @@
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\bin\Release\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\bin\Release\FinancialChat.Common.pdb
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Release\FinancialChat.Common.csprojAssemblyReference.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Release\FinancialChat.Common.csproj.CoreCompileInputs.cache
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Release\FinancialChat.Common.dll
+D:\repo\jobsity\FinancialChat\FinancialChat\FinancialChat.Common\obj\Release\FinancialChat.Common.pdb
